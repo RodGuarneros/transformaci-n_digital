@@ -1,2 +1,3 @@
-# transformaci-n_digital
-Primer draft
+# Transformación Digital
+INFOTEC
+Por Rodrigo Guarneros
